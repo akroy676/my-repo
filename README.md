@@ -1,2 +1,2 @@
 # my-repo
-its first 
+its first  repo
